@@ -87,4 +87,7 @@ text-align: center;
     border:10px groove oldlace ;
     border-radius: 457657px 30% 5678745px 477%;
 }
+.caja1:hover {
+    color: orange;
+  }
 
