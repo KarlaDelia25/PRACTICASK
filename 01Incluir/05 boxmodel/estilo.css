@@ -87,7 +87,13 @@ text-align: center;
     border:10px groove oldlace ;
     border-radius: 457657px 30% 5678745px 477%;
 }
-.caja1:hover {
-    color: orange;
+
+
+  
+  #caja1:hover {
+    background-color: gold;
+    transform: scale(1.1);
+    transform: rotate(1080deg);
+    transition: 1s all ease;
   }
 
